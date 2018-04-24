@@ -1,5 +1,3 @@
-
-
 public class periodico {
 	public int clave;
 	public String Nombre;
