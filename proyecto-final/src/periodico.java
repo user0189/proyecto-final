@@ -1,6 +1,7 @@
 
+
 public class periodico<T> {
-	public int clave;
+	public static int clave;
 	public String Nombre;
 	public String Tipo;
 	public Lista<T> TopNoticias;
@@ -22,3 +23,4 @@ public class periodico<T> {
 	
 		
 }
+
